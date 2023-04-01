@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.example</groupId>
-  <artifactId>121hello-world</artifactId>
+  <artifactId>CICDAssignment</artifactId>
   <packaging>war</packaging>
   <name>121hello-world</name>
   <url>http://maven.apache.org</url>
