@@ -6,7 +6,7 @@
   <groupId>com.example</groupId>
   <artifactId>121hello-world</artifactId>
   <packaging>war</packaging>
-  <name>hello-world</name>
+  <name>121hello-world</name>
   <url>http://maven.apache.org</url>
   <version>1.0-SNAPSHOT</version>
   <description>hello-world</description>
