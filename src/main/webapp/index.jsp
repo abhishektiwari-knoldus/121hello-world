@@ -1,3 +1,2 @@
-<h1> Welcome to abhishek  </h1>
-<h2> I deployed this project using jenkins</h2>
-<h1>hello abhishek tiwari</h1>
+<h1> Welcome to this project  </h1>
+<h2> this project is deployed on remote server</h2>
